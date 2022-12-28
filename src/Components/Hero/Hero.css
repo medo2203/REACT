@@ -1,0 +1,15 @@
+.hero{
+ background-color: black;
+ height: 150px;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    margin-top: -1px;
+    padding-top: 35px;
+}
+p{
+    color: white;
+    text-align: center;
+}

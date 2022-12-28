@@ -1,0 +1,38 @@
+.cards-container{
+    display: flex;
+    justify-content: center;
+    height: 310px;
+}
+.cards-container img{
+    width: 200px;
+}
+.cards-container h1{
+    font-size: medium;
+    height: 10px;
+}
+.cards-container p{
+    color: gray;
+}
+.cards-container button{
+    margin: 20px;
+    width: 100px;
+    height: 30px;
+    border:  1.5px solid black;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    font-size: small;
+    transition: 0.5s;
+}
+.cards-container button:hover{
+    background-color: black;
+    color: #f8f8f8;
+    cursor: pointer;
+}
+.card-self{
+    background-color: #f8f8f8;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin: 20px;
+    width: 200px;
+    text-align: center;
+}
